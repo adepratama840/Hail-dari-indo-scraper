@@ -379,10 +379,9 @@ Kami menerima kontribusi untuk pengembangan tool ini:
 
 Jika mengalami kendala atau membutuhkan bantuan:
 
-- **GitHub Issues**: https://github.com/adepratama840/Hail-dari-indo-scraper/issues
+- **GitHub Issues**: https://github.com/adepratama840/Hasil-dari-indo-scraper/issues
 - **Email Developer**: adepratama20071907@gmail.com
 - **Documentation**: Baca dokumentasi lengkap di repository
-- **Community**: Bergabung dengan komunitas developer Indonesia
 
 ## 📜 Lisensi
 
@@ -394,7 +393,7 @@ Tool ini dibuat untuk membantu developer Indonesia dalam melakukan web scraping 
 
 ---
 
-**Dibuat dengan ❤️ oleh Ade Pratama untuk komunitas developer Indonesia**
+**Dibuat dengan oleh Ade Pratama untuk komunitas developer Indonesia**
 
 ---
 
